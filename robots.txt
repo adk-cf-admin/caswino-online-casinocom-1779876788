@@ -1,0 +1,5 @@
+User-agent: * 
+Allow: / 
+Disallow: /casino/
+Host: https://caswino-online-casino.com/
+Sitemap: https://caswino-online-casino.com/sitemap.xml
